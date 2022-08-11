@@ -43,6 +43,41 @@
 #
 ### END APP TEMPLATE
 #
+- title: SWFT AllChain Bridge
+  date: 2022-08-11
+  image: ./images/SWFT.png
+  author: SWFT
+  authorLink: https://defi.swft.pro?sourceFlag=ethereumclassic
+  verifiedContract: 
+  openSource: 
+  audit: 
+  teamSite: https://ethereumclassicdao.org
+  description: One Stop Cross-Chain swap, supporting 500+ tokens on 30+ chains.
+  type: interoperability
+  links:
+    - name: Launch Router
+      link: https://defi.swft.pro?sourceFlag=ethereumclassic
+      icon: link
+    - name: Website
+      link: https://www.swft.pro/
+      icon: home
+    - name: Documentation
+      link: https://labs.en.swft.pro/
+      icon: book
+    - name: Github
+      link: 
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/SWFTBridge
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/swftswap_CN
+      icon: telegram
+    - name: Medium
+      link: https://medium.com/@swftcoin_37344
+      icon: medium
+      
+      
 - title: Multichain
   date: 2022-05-23
   image: ./images/multichain.png
